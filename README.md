@@ -27,4 +27,6 @@ The project focuses on UI structure, positioning, and clean styling.
 ---
 
 ## 📂 Project Structure
+<img width="1919" height="972" alt="image" src="https://github.com/user-attachments/assets/afdf4f64-d767-4f48-aeed-465c7b4fb568" />
+<img width="1919" height="967" alt="Screenshot 2025-12-19 130739" src="https://github.com/user-attachments/assets/4df46bf0-eaef-4614-80f5-30811602cb38" />
 
